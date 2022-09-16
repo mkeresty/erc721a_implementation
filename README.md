@@ -1,6 +1,6 @@
 # erc721a_implementation
 
-1. Go to remix.ethereum.org
+1. Go to https://remix.ethereum.org
 2. Paste in the two files
 3. Change price, wl price, mint amounts, team mint function
 4. Compile the nft_contract.sol with optimization
